@@ -458,13 +458,3 @@ Fill out the registration form to trigger a OTP code to be sent. You will use th
 
 ![](https://paper-attachments.dropbox.com/s_F2A8B2F68E4E7251C0E01BC69920BEB8CE8E4B362D8D4BA952FACA12F8136664_1573634963714_Peek+2019-11-13+09-48.gif)
 
-## Conclusion
-
-Great! By completing this tutorial, you have learned how to make use of Twilio's Verify Service for validating phone number(s) in a Laravel application. Also, we learned how to manually authenticate a user in a Laravel application.
-If you would like to take a look at the complete source code for this tutorial, you can find it on [Github](https://github.com/thecodearcher/twilio-verify-phone-number-verification).
-
-I’d love to answer any question(s) you might have concerning this tutorial. You can reach me via:
-
-- Email: [brian.iyoha@gmail.com](mailto:brian.iyoha@gmail.com)
-- Twitter: [thecodearcher](https://twitter.com/thecodearcher)
-- GitHub: [thecodearcher](https://github.com/thecodearcher)
